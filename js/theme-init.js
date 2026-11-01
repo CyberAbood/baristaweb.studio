@@ -1,0 +1,1 @@
+try{var t=localStorage.getItem('bw-theme');if(t==='dark'||t==='light')document.documentElement.dataset.theme=t;if(localStorage.getItem('bw-lang')==='en'){document.documentElement.lang='en';document.documentElement.dir='ltr'}}catch(e){}
