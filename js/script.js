@@ -17,6 +17,7 @@ svc_title:"المنيو تبعي",s1n:"منيو إلكتروني",s1v:"صور ·
 phone_cap:"حرّك الماوس على الجوال — الطلبات بالسلة:",
 proj_eyebrow:"مشاريعي",proj_title:"كيكس عمّان: حلويات فاخرة، أونلاين.",proj_sub:"موقع متجر لمحل حلويات وتمر فاخر في عمّان: هوية ذهبية، منيو بأحجام وأسعار، وسلة شراء مباشرة.",
 sh0:"الواجهة",sh1:"المنيو والسلة",sh2:"قصة المحل",sh3:"انستغرام",
+p2_title:"مقهى التحلية: منيو رقمي بلمسة نيون.",p2_sub:"نموذج تجريبي لمنيو مقهى في الرياض: شعار مضيء بهوية المقهى الزرقاء، أصناف وأسعار واضحة بالريال، ويفتح مباشرة من رمز QR.",p2_sh0:"الواجهة",p2_sh1:"المنيو",p2_sh2:"على الجوال",p2_sh3:"رمز QR",p2_no:"نموذج #002",p2_tk_title:"مقهى التحلية",p2_tk_sub:"منيو رقمي · الرياض",p2_1:"لافتة نيون بهوية المقهى الزرقاء",p2_2:"أصناف وأسعار بالريال السعودي",p2_3:"رسمة خاصة لكل مشروب",p2_4:"مصمم للجوال أولًا",p2_5:"يفتح مباشرة من رمز QR",p2_visit:"شوف الديمو",p2_alt0:"واجهة منيو مقهى التحلية مع الشعار المضيء",p2_alt1:"قائمة المشروبات والأسعار في منيو مقهى التحلية",p2_alt2:"منيو مقهى التحلية على شاشة الجوال",p2_alt3:"رمز QR يفتح منيو مقهى التحلية",
 tk_no:"طلب رقم #001",tk_title:"كيكس عمّان",tk_sub:"حلويات وتمر فاخر · عمّان",tk1:"واجهة فخمة بهوية ذهبية",tk2:"منيو بفلاتر وأحجام وأسعار",tk3:"سلة شراء مباشرة",tk4:"عربي / English",tk5:"معرض مربوط بانستغرام",tk_status:"الحالة",tk_visit:"زيارة الموقع",
 c_eyebrow:"تواصل معي",c_title:"عندك كافيه أو مشروع صغير؟ خلينا نحكي عن موقعك.",c_sub:"احكيلي عن محلك، وأنا بقترح عليك أنسب موقع يعرض شغلك ويجيبلك طلبات.",
 nav_pricing:"الباقات",pr_eyebrow:"الباقات",pr_title:"باقات واضحة، بدون مفاجآت.",pr_sub:"اختار الباقة اللي بتناسب مشروعك. نص المبلغ مقدّم لبدء العمل، والباقي بعد التسليم.",pr_cur:"دينار",pr_cta:"اطلب الباقة",pr_n1:"الباقة الأساسية",pr_n2:"الباقة الاحترافية",pr_d1:"لمحل بده منيو حلو ويستقبل طلبات على واتساب.",pr_d2:"لمشروع بده طلبات منظمة وأرقام بتساعده يكبر.",pr_pay1:"الدفع: 50 دينار مقدّم لبدء العمل، و50 دينار بعد انتهاء العمل",pr_pay2:"الدفع: 100 دينار مقدّم لبدء العمل، و100 دينار بعد انتهاء العمل",pr_t1:"التسليم خلال 5 أيام عمل",pr_t2:"التسليم خلال 14 يوم عمل",pr_r1:"جولتين تعديل",pr_r2:"3 جولات تعديل",pr_f1:"صفحة هبوط بسيطة تشمل شعار المحل",pr_f2a:"منيو جذاب لعرض الأصناف والأسعار بكل احترافية (لحد 40 صنف)",pr_f2b:"منيو جذاب لعرض الأصناف والأسعار بكل احترافية (لحد 80 صنف)",pr_f3:"زر طلب مباشر عبر واتساب",pr_f4:"تصميم متجاوب مع الجوال والتابلت والكمبيوتر",pr_f5:"إصلاح أي عطل فني لمدة سنة",pr_x1:"أتمتة كاملة للطلبات: سلة، والطلب بيوصلك مرتب وبينحفظ تلقائياً",pr_x2:"لوحة خاصة للمسؤولين: أكثر صنف مبيعاً، أوقات الذروة، والمبيعات الأسبوعية، عشان تحسّن منتجاتك",pr_note:"الدعم الفني بيشمل إصلاح الأعطال، مش تعديل المحتوى، وتعديل المنيو بعد التسليم بسعر رمزي. الدومين والاستضافة مش داخلين بالسعر وبينحسبوا حسب تكلفتهم الفعلية. الباقة الاحترافية بتحتاج اشتراك شهري رمزي لاستضافة السيرفر ولوحة التحكم.",
@@ -34,6 +35,7 @@ svc_title:"My menu",s1n:"Digital menu",s1v:"photos · sizes · prices",s2n:"Dire
 phone_cap:"Move your cursor over the phone — items in cart:",
 proj_eyebrow:"Projects",proj_title:"Keks Amman: luxury sweets, online.",proj_sub:"A storefront for a luxury sweets and dates shop in Amman: a gold identity, a menu with sizes and prices, and a direct-buy cart.",
 sh0:"Homepage",sh1:"Menu & cart",sh2:"Our story",sh3:"Instagram",
+p2_title:"Tahlia Cafe: a digital menu with a neon touch.",p2_sub:"A demo menu for a café in Riyadh: a glowing sign in the café's blue identity, clear items and prices in riyals, and it opens straight from a QR code.",p2_sh0:"Home",p2_sh1:"Menu",p2_sh2:"On mobile",p2_sh3:"QR code",p2_no:"Demo #002",p2_tk_title:"Tahlia Cafe",p2_tk_sub:"Digital menu · Riyadh",p2_1:"Neon sign in the café's blue identity",p2_2:"Items and prices in Saudi riyals",p2_3:"A custom drawing for each drink",p2_4:"Designed for mobile first",p2_5:"Opens straight from a QR code",p2_visit:"View the demo",p2_alt0:"Tahlia Cafe menu home with the glowing logo",p2_alt1:"Drinks and prices in the Tahlia Cafe menu",p2_alt2:"Tahlia Cafe menu on a phone screen",p2_alt3:"QR code that opens the Tahlia Cafe menu",
 tk_no:"Order #001",tk_title:"Keks Amman",tk_sub:"Luxury sweets & dates · Amman",tk1:"Premium gold-themed interface",tk2:"Menu with filters, sizes and prices",tk3:"Direct-buy cart",tk4:"Arabic / English",tk5:"Instagram-linked gallery",tk_status:"Status",tk_visit:"Visit the site",
 c_eyebrow:"Contact",c_title:"Run a café or a small business? Let's talk about your website.",c_sub:"Tell me about your shop and I'll suggest the website that shows off your work and brings in orders.",
 nav_pricing:"Pricing",pr_eyebrow:"Pricing",pr_title:"Clear packages, no surprises.",pr_sub:"Pick the package that fits your business. Half upfront to start, the rest on delivery.",pr_cur:"JOD",pr_cta:"Get this package",pr_n1:"Basic",pr_n2:"Pro",pr_d1:"For a shop that wants a great menu and orders on WhatsApp.",pr_d2:"For a business that wants organized orders and numbers to grow with.",pr_pay1:"Payment: 50 JOD upfront to start, 50 JOD on completion",pr_pay2:"Payment: 100 JOD upfront to start, 100 JOD on completion",pr_t1:"Delivered in 5 working days",pr_t2:"Delivered in 14 working days",pr_r1:"2 revision rounds",pr_r2:"3 revision rounds",pr_f1:"Simple landing page with your shop's logo",pr_f2a:"Attractive menu showing your items and prices professionally (up to 40 items)",pr_f2b:"Attractive menu showing your items and prices professionally (up to 80 items)",pr_f3:"Direct order button via WhatsApp",pr_f4:"Responsive on phone, tablet and desktop",pr_f5:"Any technical fault fixed for one year",pr_x1:"Full order automation: cart, orders arrive organized and saved automatically",pr_x2:"Private admin dashboard: best sellers, peak hours and weekly sales, to help you improve your products",pr_note:"Support covers fixing faults, not content changes; menu updates after delivery are available at a small fee. Domain and hosting are not included and are charged at cost. The Pro package needs a small monthly subscription for server and dashboard hosting.",
@@ -90,8 +92,9 @@ copyBtn.addEventListener('click',()=>{
 });
 
 /* ---------------- project deck ---------------- */
-const deck=document.getElementById('deck'),shots=[...deck.querySelectorAll('.shot')],thumbs=[...document.querySelectorAll('.thumb')],prog=document.getElementById('prog');
-let cur=0,timer=null,t0=0,paused=false;const DUR=5000;
+document.querySelectorAll('.deck-wrap').forEach(wrap=>{
+const deck=wrap.querySelector('.deck'),shots=[...deck.querySelectorAll('.shot')],thumbs=[...wrap.querySelectorAll('.thumb')],prog=wrap.querySelector('.progress i');
+let cur=0,t0=0,paused=false,inView=false;const DUR=5000;
 function layout(){
   const n=shots.length,s=root.dir==='rtl'?-1:1;
   shots.forEach((el,i)=>{
@@ -121,9 +124,13 @@ thumbs.forEach(b=>b.addEventListener('click',()=>go(+b.dataset.go)));
 deck.addEventListener('pointerenter',()=>paused=true);deck.addEventListener('pointerleave',()=>{paused=false;t0=performance.now()});
 langHooks.push(layout);
 layout();
-if(!reduce){t0=performance.now();(function tick(now){
-  if(!paused){const p=Math.min((now-t0)/DUR,1);prog.style.width=(p*100)+'%';if(p>=1)go(cur+1)}
+if(!reduce){
+  // Two decks share the page, so each one only advances while on screen.
+  new IntersectionObserver(es=>{inView=es[0].isIntersecting;if(inView)t0=performance.now()}).observe(deck);
+  t0=performance.now();(function tick(now){
+  if(!paused&&inView){const p=Math.min((now-t0)/DUR,1);prog.style.width=(p*100)+'%';if(p>=1)go(cur+1)}
   requestAnimationFrame(tick)})(performance.now())}
+});
 
 /* ---------------- Three.js scenes ---------------- */
 function webglOK(){try{const c=document.createElement('canvas');return !!(window.WebGLRenderingContext&&(c.getContext('webgl2')||c.getContext('webgl')))}catch(e){return false}}
